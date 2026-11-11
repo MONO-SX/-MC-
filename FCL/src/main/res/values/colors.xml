@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_theme_color">#7797CF</color>
+    <color name="default_theme_color_dark">#4E77C1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ui_bg_color">#40F4F4F4</color>
+    <color name="right_menu_color">#80F4F4F4</color>
+    <color name="icon_background_color">#1E6F04</color>
+    <color name="primary_text">#0E0E0E</color>
+    <!-- 原 FCLLibrary 模块颜色（模块已并入 FCL） -->
+    <color name="dialog_background">#F4F4F4</color>
+    <!-- MyZ 壳子：首页启动区与账户面板配色（图二：深灰底 + 黄色强调） -->
+    <color name="shell_accent">#F5C518</color>
+    <color name="shell_accent_dark">#D9AC0F</color>
+    <color name="shell_on_accent">#1A1A1A</color>
+    <!-- MyZ 壳子：账户面板改为透明底板 + 黄色描边；shell_panel/shell_card 只保留极淡暗色衬底保证文字对比度 -->
+    <color name="shell_panel">#40000000</color>
+    <color name="shell_card">#47000000</color>
+    <color name="shell_stroke">#99F5C518</color>
+    <color name="shell_card_stroke">#99F5C518</color>
+    <color name="shell_text_primary">#FFFFFFFF</color>
+    <color name="shell_text_secondary">#D9FFFFFF</color>
+    <color name="shell_text_shadow">#CC000000</color>
+</resources>

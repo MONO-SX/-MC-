@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MyZ 壳子：账户面板底板（透明，仅留极淡暗色衬底保证文字对比度，让背景图透出） -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="16dp" />
+    <solid android:color="@color/shell_panel" />
+</shape>
